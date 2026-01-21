@@ -84,4 +84,3 @@ Users can open/close this panel anytime and switch between threads smoothly.
 ## Request
 I believe this feature would significantly improve ChatGPT’s user experience for both learning and regular daily usage.
 
-If OpenAI implements this feature (or something very similar), attribution/credit would be appreciated if possible.
